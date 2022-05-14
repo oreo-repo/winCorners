@@ -1,4 +1,4 @@
-winCorners v1.0
+# winCorners v1.0
 
 Thanks for visiting this repo! This is a rainmeter skin for creating rounded corners in Windows!
 
