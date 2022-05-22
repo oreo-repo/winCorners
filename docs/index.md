@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to winCorners
 
 You can use the [editor on GitHub](https://github.com/oreo-repo/winCorners/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
